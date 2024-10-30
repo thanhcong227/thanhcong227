@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cong</h1>
 <h3 align="center">A passionate backend developer from VietNam</h3>
-<p align="right">
-  <img alt="Coding" width="400" src="https://i.giphy.com/QDjpIL6oNCVZ4qzGs7.webp" />
-</p>
+<img alt="Coding" width="400" src="https://i.giphy.com/QDjpIL6oNCVZ4qzGs7.webp" />
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thanhcong227&label=Profile%20views&color=0e75b6&style=flat" alt="thanhcong227" /> </p>
 
